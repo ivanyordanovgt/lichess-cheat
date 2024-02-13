@@ -6,3 +6,12 @@
 2. Download project
 3. Double click start.bat
 Enjoy!
+
+# Configs
+Chess pieces images, board colors, login cookie will be saved in the folder configs automatically while using the app.
+To use different configs: 
+1. Go to the configs folder, make a copy of "emptyConfig.json"
+2. Rename it to the name of the config you want.
+3. Go out of the configs folder and open "config.txt"
+4. Write the path to your config.
+5. Enjoy! 
