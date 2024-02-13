@@ -1,1 +1,1 @@
-./configs/config2.json
+./configs/amongusVsCats.json
