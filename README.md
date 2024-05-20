@@ -7,6 +7,8 @@
 3. Double click start.bat
 Enjoy!
 
+[Cheat showcase](https://www.youtube.com/watch?v=IXeUYUkNHpo)
+
 # Configs
 Chess pieces images, board colors, login cookie will be saved in the folder configs automatically while using the app.
 To use different configs: 
